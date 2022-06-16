@@ -1,0 +1,277 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kr.co.flexapp.andr",
+    "module": "flex-lib",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "flex-lib-1.0.1.aar",
+          "url": "flex-lib-1.0.1.aar",
+          "size": 1889272,
+          "sha512": "ddb755505e334b9f7b85aa6fc6d7ad3b7d492c414db46230252d16dea48dae363f7bf66b3d0ac4f89fa2d221e9262f2055142acfc12ecf11e3de8bf5d138c299",
+          "sha256": "d1970a28250941d5b1cf658195cfde2c2f84642ee16e7260fae61f3fb7be5dc6",
+          "sha1": "e0cb190fd3e75997f2a2f2dad311c1d4b8014c6d",
+          "md5": "99d77ba7f641271bd3682598cc51168c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.fragment",
+          "module": "fragment",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.2"
+          }
+        },
+        {
+          "group": "androidx.palette",
+          "module": "palette",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.cardview",
+          "module": "cardview",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-auth-api-phone",
+          "version": {
+            "requires": "18.0.1"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-maps",
+          "version": {
+            "requires": "18.0.2"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-base",
+          "version": {
+            "requires": "18.0.1"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-location",
+          "version": {
+            "requires": "20.0.0"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-places",
+          "version": {
+            "requires": "17.0.0"
+          }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-bom",
+          "version": {
+            "requires": "30.0.1"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-core"
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-messaging"
+        },
+        {
+          "group": "com.google.zxing",
+          "module": "core",
+          "version": {
+            "requires": "3.3.3"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.8.0"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "gifencoder-integration",
+          "version": {
+            "requires": "4.8.0"
+          }
+        },
+        {
+          "group": "androidx.work",
+          "module": "work-runtime-ktx",
+          "version": {
+            "requires": "2.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.13.3"
+          }
+        },
+        {
+          "group": "com.google.apis",
+          "module": "google-api-services-customsearch",
+          "version": {
+            "requires": "v1-rev59-1.23.0"
+          },
+          "excludes": [
+            {
+              "group": "com.google.guava",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "androidx.multidex",
+          "module": "multidex",
+          "version": {
+            "requires": "2.0.1"
+          }
+        },
+        {
+          "group": "org.altbeacon",
+          "module": "android-beacon-library",
+          "version": {
+            "requires": "2.19.5-beta4"
+          }
+        },
+        {
+          "group": "com.github.yalantis",
+          "module": "ucrop",
+          "version": {
+            "requires": "2.2.2"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "okio"
+            },
+            {
+              "group": "*",
+              "module": "okhttp"
+            }
+          ]
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flex-lib-1.0.1.aar",
+          "url": "flex-lib-1.0.1.aar",
+          "size": 1889272,
+          "sha512": "ddb755505e334b9f7b85aa6fc6d7ad3b7d492c414db46230252d16dea48dae363f7bf66b3d0ac4f89fa2d221e9262f2055142acfc12ecf11e3de8bf5d138c299",
+          "sha256": "d1970a28250941d5b1cf658195cfde2c2f84642ee16e7260fae61f3fb7be5dc6",
+          "sha1": "e0cb190fd3e75997f2a2f2dad311c1d4b8014c6d",
+          "md5": "99d77ba7f641271bd3682598cc51168c"
+        }
+      ]
+    }
+  ]
+}
