@@ -64,11 +64,11 @@
         {
           "name": "flex-lib-1.0.8.aar",
           "url": "flex-lib-1.0.8.aar",
-          "size": 1962119,
-          "sha512": "0d483b9a0875f47b3f2a201c9376469b6422cdbda7772e881ba1987a9663195c33db370dee985e26c519c07a8f886e8f050b29780b96d5c466428da724cd350a",
-          "sha256": "5b1d4f12facb1232ed3bcae3cfbf6685e1d334cd3bda63949046e5adb62caf4b",
-          "sha1": "d8d5fe02c5b2f0b01f0bfc3d3017e6f88b6dc4b3",
-          "md5": "7e6d22a2cdd73e34a663df707725efcc"
+          "size": 1957690,
+          "sha512": "3b7c14d960c7928a88a7dd9529cc6ada13d0caa59ae14544ccf6371d0459e18769d8dfe1ad79aa17f30153dfc9691e62b2aeebf9a301b1e062ca471c8d9a1c4e",
+          "sha256": "41f0e20dc1473994a49f8ce861c46de715cdda9eca22677f83c292999d9028e8",
+          "sha1": "255bdb384da63d53a8a95b349e923fbd3c3cf9e7",
+          "md5": "5f14a54c4c3071cc776e06e6559e2ab8"
         }
       ]
     },
@@ -243,13 +243,6 @@
           }
         },
         {
-          "group": "org.altbeacon",
-          "module": "android-beacon-library",
-          "version": {
-            "requires": "2.20.6"
-          }
-        },
-        {
           "group": "com.github.yalantis",
           "module": "ucrop",
           "version": {
@@ -356,11 +349,11 @@
         {
           "name": "flex-lib-1.0.8.aar",
           "url": "flex-lib-1.0.8.aar",
-          "size": 1962119,
-          "sha512": "0d483b9a0875f47b3f2a201c9376469b6422cdbda7772e881ba1987a9663195c33db370dee985e26c519c07a8f886e8f050b29780b96d5c466428da724cd350a",
-          "sha256": "5b1d4f12facb1232ed3bcae3cfbf6685e1d334cd3bda63949046e5adb62caf4b",
-          "sha1": "d8d5fe02c5b2f0b01f0bfc3d3017e6f88b6dc4b3",
-          "md5": "7e6d22a2cdd73e34a663df707725efcc"
+          "size": 1957690,
+          "sha512": "3b7c14d960c7928a88a7dd9529cc6ada13d0caa59ae14544ccf6371d0459e18769d8dfe1ad79aa17f30153dfc9691e62b2aeebf9a301b1e062ca471c8d9a1c4e",
+          "sha256": "41f0e20dc1473994a49f8ce861c46de715cdda9eca22677f83c292999d9028e8",
+          "sha1": "255bdb384da63d53a8a95b349e923fbd3c3cf9e7",
+          "md5": "5f14a54c4c3071cc776e06e6559e2ab8"
         }
       ]
     }
