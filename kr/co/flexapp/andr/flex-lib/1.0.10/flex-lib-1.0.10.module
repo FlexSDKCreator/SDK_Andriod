@@ -3,7 +3,7 @@
   "component": {
     "group": "kr.co.flexapp.andr",
     "module": "flex-lib",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -62,13 +62,13 @@
       ],
       "files": [
         {
-          "name": "flex-lib-1.0.9.aar",
-          "url": "flex-lib-1.0.9.aar",
-          "size": 1957411,
-          "sha512": "c20c206904b4a38479321fcc20753f461ae0319aadbd129c7720463e75c40b6ca7ce28b6ed2b0ef90c5ae5f2a421e7ae14091ad33f60a1cf45cf6b2e26b76a51",
-          "sha256": "1bbdb5b5ac0ba5d8736db983cea1305976b972917a4b37a03da0733081ee952f",
-          "sha1": "0888a6ca17cb18a820a67d11414605de806ab1a9",
-          "md5": "eecdbd926a9ae318214f14657a5486ed"
+          "name": "flex-lib-1.0.10.aar",
+          "url": "flex-lib-1.0.10.aar",
+          "size": 1961476,
+          "sha512": "e9f31983c214db1d41815570fc3adc87334c27fcfc09c4af05c8aeefd76c1f39a1004d347c884391ce55b257b996ee9a151251c8bbd09145d413f04fbb7b7a1a",
+          "sha256": "41d19d6644968afe32ce9e39418d3df1bab7d96654f85d49b6b8083ddacd1f27",
+          "sha1": "034e6be5cd927c8278a87674d2a9c18d6c5de55b",
+          "md5": "c8a88179bf966d2beabed62c97f97fc1"
         }
       ]
     },
@@ -347,13 +347,13 @@
       ],
       "files": [
         {
-          "name": "flex-lib-1.0.9.aar",
-          "url": "flex-lib-1.0.9.aar",
-          "size": 1957411,
-          "sha512": "c20c206904b4a38479321fcc20753f461ae0319aadbd129c7720463e75c40b6ca7ce28b6ed2b0ef90c5ae5f2a421e7ae14091ad33f60a1cf45cf6b2e26b76a51",
-          "sha256": "1bbdb5b5ac0ba5d8736db983cea1305976b972917a4b37a03da0733081ee952f",
-          "sha1": "0888a6ca17cb18a820a67d11414605de806ab1a9",
-          "md5": "eecdbd926a9ae318214f14657a5486ed"
+          "name": "flex-lib-1.0.10.aar",
+          "url": "flex-lib-1.0.10.aar",
+          "size": 1961476,
+          "sha512": "e9f31983c214db1d41815570fc3adc87334c27fcfc09c4af05c8aeefd76c1f39a1004d347c884391ce55b257b996ee9a151251c8bbd09145d413f04fbb7b7a1a",
+          "sha256": "41d19d6644968afe32ce9e39418d3df1bab7d96654f85d49b6b8083ddacd1f27",
+          "sha1": "034e6be5cd927c8278a87674d2a9c18d6c5de55b",
+          "md5": "c8a88179bf966d2beabed62c97f97fc1"
         }
       ]
     }
