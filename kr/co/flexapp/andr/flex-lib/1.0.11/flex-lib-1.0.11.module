@@ -3,7 +3,7 @@
   "component": {
     "group": "kr.co.flexapp.andr",
     "module": "flex-lib",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -62,8 +62,8 @@
       ],
       "files": [
         {
-          "name": "flex-lib-1.0.10.aar",
-          "url": "flex-lib-1.0.10.aar",
+          "name": "flex-lib-1.0.11.aar",
+          "url": "flex-lib-1.0.11.aar",
           "size": 1961379,
           "sha512": "9405fc54d2177e0534cb2b26e765519f6742468e4c177217102cbb251de9898a3f262a7a5abda3dad1917768f1cb9df4ef0ba8749232a33b8b91580da98e16e5",
           "sha256": "8e39b0e1a39a20a39cf8569fa583bc722a2d98e405f447c5ca16644129bf3bea",
@@ -347,8 +347,8 @@
       ],
       "files": [
         {
-          "name": "flex-lib-1.0.10.aar",
-          "url": "flex-lib-1.0.10.aar",
+          "name": "flex-lib-1.0.11.aar",
+          "url": "flex-lib-1.0.11.aar",
           "size": 1961379,
           "sha512": "9405fc54d2177e0534cb2b26e765519f6742468e4c177217102cbb251de9898a3f262a7a5abda3dad1917768f1cb9df4ef0ba8749232a33b8b91580da98e16e5",
           "sha256": "8e39b0e1a39a20a39cf8569fa583bc722a2d98e405f447c5ca16644129bf3bea",
